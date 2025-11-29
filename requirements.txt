@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+pdfplumber
+python-docx
+pillow
+pytesseract
+google-genai
+python-telegram-bot==20.7
